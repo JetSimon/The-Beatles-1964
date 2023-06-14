@@ -9349,6 +9349,12 @@ campaignTrail_temp.answer_feedback_json = [
     }
 ]
 
-campaignTrail_temp.jet_data = [{}
+campaignTrail_temp.jet_data = [{
+    "nicknames": {
+        "105": "The Beatles",
+        "106": "The Rolling Stones",
+        "107": "Elvis Presley"
+    }
+}
 ]
 
