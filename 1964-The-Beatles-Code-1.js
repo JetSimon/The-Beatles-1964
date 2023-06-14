@@ -67,8 +67,8 @@ e.candidate_json = [
     model: "campaign_trail.candidate",
     pk: 105,
     fields: {
-      first_name: "The Beatles",
-      last_name: "",
+      first_name: "",
+      last_name: "The Beatles",
       election: 11,
       party: "The Beatles",
       state: "Liverpool",
@@ -93,8 +93,8 @@ e.candidate_json = [
     model: "campaign_trail.candidate",
     pk: 106,
     fields: {
-      first_name: "The Rolling Stones",
-      last_name: "",
+      first_name: "",
+      last_name: "The Rolling Stones",
       election: 11,
       party: "The Rolling Stones",
       state: "London",
@@ -119,8 +119,8 @@ e.candidate_json = [
     model: "campaign_trail.candidate",
     pk: 109,
     fields: {
-      first_name: "Gerry and the Pacemakers",
-      last_name: "",
+      first_name: "",
+      last_name: "Gerry and the Pacemakers",
       election: 11,
       party: "Gerry and the Pacemakers",
       state: "Liverpool",
