@@ -232,7 +232,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3659,
         "fields": {
             "question": 448,
-            "description": "I will campaign as a mainstream liberal Democrat, emphasizing key parts of our platform and pressing the case for more vigilance in our national defense."
+            "description": "I Want To Hold Your Hand\n"
         }
     },
     {
@@ -240,7 +240,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3660,
         "fields": {
             "question": 448,
-            "description": "I have always been on the more moderate wing of the party. We need to emphasize my anti-Communism and my record as a Senator if we hope to win back the Eisenhower Democrats."
+            "description": "All My Loving"
         }
     },
     {
@@ -248,7 +248,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3661,
         "fields": {
             "question": 448,
-            "description": "It is important to keep the Democratic Party moving into the future. We need to act on civil rights, education, and health care over the coming term."
+            "description": "Misery"
         }
     },
     {
@@ -256,7 +256,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3662,
         "fields": {
             "question": 448,
-            "description": "I will deemphasize the political aspect of this campaign, as much as practicable, and emphasize my own personality and leadership ability. Of course I will still make strong statements on the Cold War."
+            "description": "Boys"
         }
     },
     {
@@ -264,7 +264,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3663,
         "fields": {
             "question": 449,
-            "description": "Lyndon Johnson shares my political beliefs and will be my close partner in government for the next four years."
+            "description": "PAUL: “He’s the fifth Beatle. He’s been instrumental in allowing us to play all around this great country.”"
         }
     },
     {
@@ -272,7 +272,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3664,
         "fields": {
             "question": 449,
-            "description": "Lyndon Johnson is a loyal Southerner and Senator from Texas who will spare no effort to advance a Democratic agenda. "
+            "description": "JOHN: “He makes sure we’re all being good little Beatles.”"
         }
     },
     {
@@ -280,7 +280,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3665,
         "fields": {
             "question": 450,
-            "description": "I have no real comment to make, but I'm sure that the voters in Texas will be incensed at the incivility of this episode."
+            "description": "Twist and Shout"
         }
     },
     {
@@ -288,7 +288,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3673,
         "fields": {
             "question": 454,
-            "description": "Let's be cautious with this idea. Nixon is a skilled debater, and the last thing we need right now is a campaign setback on national television."
+            "description": "PAUL: “We refuse to play at any segregated show. Whites and blacks both deserve to see The Beatles.”"
         }
     },
     {
@@ -296,23 +296,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3674,
         "fields": {
             "question": 454,
-            "description": "I would love to go against Nixon in a televised debate. We could use the exposure and I'm confident that I would win."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3675,
-        "fields": {
-            "question": 454,
-            "description": "I would love to go against Nixon in a televised debate. We could use the exposure and I'm confident that I would win."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3676,
-        "fields": {
-            "question": 454,
-            "description": "I would love to go against Nixon in a televised debate. We could use the exposure and I'm confident that I would win."
+            "description": "RINGO: “We may not agree with it, but if a promoter does it we can’t stop them.”"
         }
     },
     {
@@ -320,7 +304,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3677,
         "fields": {
             "question": 455,
-            "description": "Let's gather some of these leaflets and show them to the media and to major newspapers. I think they demonstrate the lengths that some people will go to discredit my candidacy."
+            "description": "GEORGE: \"No! That’s stupid, you know. They should just confiscate the jellybeans at the gate.\""
         }
     },
     {
@@ -328,7 +312,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3678,
         "fields": {
             "question": 455,
-            "description": "I will attack the idea that any good Protestant would vote against my candidacy because I happen to be a Catholic."
+            "description": "RINGO: “They should be arrested and persecuted to the highest extent of the law.”"
         }
     },
     {
@@ -336,7 +320,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3679,
         "fields": {
             "question": 455,
-            "description": "We can't be out there responding to every little two-bit leaflet that some crank puts out. Let's wait and see how this issue develops."
+            "description": "PAUL: “I just wish they would throw something else like some pills or something.”"
         }
     },
     {
@@ -344,7 +328,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3680,
         "fields": {
             "question": 456,
-            "description": "Let's take this opportunity to make a major speech on the topic. I will address this issue exclusively in a televised speech, and put it to rest for good."
+            "description": "Kansas City / Hey-Hey-Hey-Hey"
         }
     },
     {
@@ -352,15 +336,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3681,
         "fields": {
             "question": 456,
-            "description": "Let's put a couple of statements into my next campaign speech to address this issue, and reassure the public that I take no orders from the Pope."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3682,
-        "fields": {
-            "question": 456,
-            "description": "I am Catholic and proud of it. I will not respond to bigoted attacks or innuendo, and I trust that these attacks will only help me by driving higher Catholic turnout."
+            "description": "If I Fell"
         }
     },
     {
@@ -368,7 +344,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3683,
         "fields": {
             "question": 457,
-            "description": "This movement has my full support, as do the other civil rights measures of our day. I will push for a Civil Rights Act as President."
+            "description": "PAUL: \"Boo!\" (shows thumbs down) \"I don't like him... I don't like him... unquote!\""
         }
     },
     {
@@ -376,15 +352,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3684,
         "fields": {
             "question": 457,
-            "description": "I support the civil rights movement, but I'm a little concerned about the disregard for the law that some of these activists have shown."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3685,
-        "fields": {
-            "question": 457,
-            "description": "These activists are trespassing on the property of lawful businesses. I think there are better methods of pushing for change in the South."
+            "description": "RINGO: “Not many people know this but our other idea for a band name was Barry’s Boys. We think he’s aces.”"
         }
     },
     {
@@ -392,7 +360,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3686,
         "fields": {
             "question": 458,
-            "description": "Richard Nixon and I entered Congress in the same year, 1947, and have both served in the highest levels of government for some time."
+            "description": "Roll Over Beethoven"
         }
     },
     {
@@ -400,7 +368,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3687,
         "fields": {
             "question": 458,
-            "description": "I question this premise, to be frank. It's still not clear to me exactly what role Nixon had in the Eisenhower Administration, or what policies of his have been implemented."
+            "description": "I Wanna Be Your Man"
         }
     },
     {
@@ -408,7 +376,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3688,
         "fields": {
             "question": 458,
-            "description": "I will bring new, dynamic leadership to this country as President. I don't see how this line of argument puts me at any disadvantage."
+            "description": "Can’t Buy Me Love"
         }
     },
     {
@@ -416,7 +384,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3737,
         "fields": {
             "question": 476,
-            "description": "This program is a good starting point, but I would much prefer a program of national health insurance for all Americans -- not just the elderly."
+            "description": "JOHN: \"Well, I had a vision when I was twelve. And I saw a man on a flaming pie, and he said, 'You are Beatles with an A.' And we are.\""
         }
     },
     {
@@ -424,7 +392,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3738,
         "fields": {
             "question": 476,
-            "description": "I would redouble our efforts on this front. Too many of our nation's elderly are unable to afford decent medical care in their advanced years."
+            "description": "PAUL: “We were all huge fans of Buddy Holly and The Crickets and we decided to pay tribute to him.”"
         }
     },
     {
@@ -432,15 +400,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3739,
         "fields": {
             "question": 476,
-            "description": "I prefer a slightly different program, offering health insurance to the elderly that they can choose to purchase. The proposed program was mandatory, and also covered only those covered by the Social Security Act."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3740,
-        "fields": {
-            "question": 476,
-            "description": "This program would represent a massive new financial commitment for the federal government, when care of the elderly properly rests with the affected family."
+            "description": "GEORGE: “We were all taking too many Bennies in Hamburg and started seeing beetles everywhere.”"
         }
     },
     {
@@ -448,7 +408,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3741,
         "fields": {
             "question": 477,
-            "description": "We need to dispatch an armed garrison to these islands, to make sure there is no mistaking our commitment in our fight against Communism."
+            "description": "RINGO: \"Well, the Rolling Stones are good.\""
         }
     },
     {
@@ -456,7 +416,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3742,
         "fields": {
             "question": 477,
-            "description": "I do believe we should defend these islands. We are committed to the defense of Taiwan, and that commitment must include all of Taiwan to be credible."
+            "description": "JOHN: \"We just remarked on that. We like the Stones, you know. Dave Clark's alright, but we prefer the Stones.\""
         }
     },
     {
@@ -464,15 +424,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3743,
         "fields": {
             "question": 477,
-            "description": "It wouldn't be responsible of me to comment at this point. As President I will consult with our military leaders to determine what is appropriate."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3744,
-        "fields": {
-            "question": 477,
-            "description": "I'm not sure it's practical or desirable from a military standpoint to defend two tiny islands that are much closer to the Chinese mainland than they are to Formosa."
+            "description": "PAUL: “The Beatles and The Rolling Stones are nothing compared to Dave Clark.”"
         }
     },
     {
@@ -480,7 +432,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3745,
         "fields": {
             "question": 478,
-            "description": "This is not a high priority for me as President. We need to create an old age insurance program and increase our funding for education."
+            "description": "JOHN: (jokingly) \"Nicki Cuff.\""
         }
     },
     {
@@ -488,15 +440,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3746,
         "fields": {
             "question": 478,
-            "description": "I would be open to this, depending on how the economy goes in the next year or two."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3747,
-        "fields": {
-            "question": 478,
-            "description": "We need to cut this rate substantially. It is way too high."
+            "description": "PAUL: \"Nicki Cuff, I'd say. No, uhh... American colored groups, mainly. And early Elvis Presley.\""
         }
     },
     {
@@ -504,7 +448,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3748,
         "fields": {
             "question": 479,
-            "description": "I am satisfied with our progress over the past few years. We have prevented further expansion while avoiding any major wars."
+            "description": "JOHN: “You forget, you know. I know I met Paul first, and he sort of joined this little group I had. And then George, you know, and gradually changed-- but it was just us three.”"
         }
     },
     {
@@ -512,7 +456,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3749,
         "fields": {
             "question": 479,
-            "description": "We can never be fully satisfied, but we have certainly held our own in the Cold War over the past eight years, compared to where we were during the Korean War."
+            "description": "PAUL: “We were actually born as The Beatles, not many people know this but we all came from the same mother. Mother Beatle we called her.”"
         }
     },
     {
@@ -520,7 +464,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3750,
         "fields": {
             "question": 479,
-            "description": "Cuba has been lost to the Soviet Union, providing a potential base for Communist aggression on the very doorstep of our nation. I am very unsatisfied with the current situation."
+            "description": "RINGO: “Skiffle? No, we started by playing Beethoven. But we were so bad at it that we ended up with this racket.”"
         }
     },
     {
@@ -528,7 +472,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3751,
         "fields": {
             "question": 480,
-            "description": "I am as satisfied as I can be. With sound defense policies and strong economic growth, we should continue to maintain our advantage over the Soviet Union."
+            "description": "JOHN: “I would say they’re right, we are probably more popular than Jesus.”"
         }
     },
     {
@@ -536,15 +480,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3752,
         "fields": {
             "question": 480,
-            "description": "I don't know, to be perfectly frank. Things are going well for now, but we will have many challenges to meet in places like Cuba, Lebanon, Latin America, Indochina, and elsewhere."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3753,
-        "fields": {
-            "question": 480,
-            "description": "We have a missile gap, and an overly tight monetary policy that is constraining our growth. I'm very concerned that these shortfalls will allow the Soviet Union to gain an advantage if they are not addressed."
+            "description": "PAUL: “This whole ‘Beatles’ thing is just a fad anyway.”"
         }
     },
     {
@@ -552,7 +488,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3757,
         "fields": {
             "question": 482,
-            "description": "Education is a key front in our battle with Communism, and that includes adequate pay and respect for our nation's teachers. I would support additional federal spending on this."
+            "description": "Try and get Elvis alone without his manager Colonel Tom."
         }
     },
     {
@@ -560,7 +496,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3758,
         "fields": {
             "question": 482,
-            "description": "I'm not satisfied with how well teachers are paid in this country, and I'd encourage local jurisdictions to address this issue further. We need to strike a good balance in this regard."
+            "description": "Be confrontational, Elvis may be your hero but he’s old news."
         }
     },
     {
@@ -568,7 +504,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3759,
         "fields": {
             "question": 482,
-            "description": "We need to minimize the federal funding of education, even in block grants. It could easily open the door to federal control of our schools."
+            "description": "Be polite, you may be star struck but you can try and act normal."
         }
     },
     {
@@ -576,7 +512,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3760,
         "fields": {
             "question": 483,
-            "description": "We need to do anything we can to move our nation forward on this issue, including a civil rights bill and measures to protect voting rights."
+            "description": "JOHN: \"I used to paint...\""
         }
     },
     {
@@ -584,7 +520,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3761,
         "fields": {
             "question": 483,
-            "description": "I am supportive of a civil rights bill and will work with Congress to get one written and passed."
+            "description": "GEORGE: \"Acrobatics. All sorts of things.\""
         }
     },
     {
@@ -592,7 +528,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3762,
         "fields": {
             "question": 483,
-            "description": "This is something that is more appropriately addressed by individual states, though I will do anything I can to enforce the decisions of our Supreme Court."
+            "description": "RINGO: \"I’m quite into American politics and history. In fact I’m working on designing a board game called The Campaign Trail where you play as political candidates and try to win historical elections.\""
         }
     },
     {
@@ -608,7 +544,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3764,
         "fields": {
             "question": 484,
-            "description": "Let's make a call to Mrs. King to offer our condolences, and let's demand the release of Mr. King."
+            "description": "PAUL: \"I think it was my dad, really. He said, 'You know, Paul, it's a bit square,' the haircut I had-- you know, short back and sides. He said, 'Why don't you get a Beatle Cut, son.'\""
         }
     },
     {
@@ -616,7 +552,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3765,
         "fields": {
             "question": 484,
-            "description": "Let's make a public comment criticizing this arrest, and expressing our hopes that this situation doesn't escalate any further."
+            "description": "GEORGE: “Well, you know, we all performed a satanic ritual to gain our musical talents but it came at the cost of our ability to cut our hair.”"
         }
     },
     {
@@ -624,7 +560,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3766,
         "fields": {
             "question": 484,
-            "description": "I will give a statement encouraging the State of Georgia to protect the safety of Mr. King, while criticizing him for participating in these inflammatory and illegal protests."
+            "description": "JOHN: “I think it was mostly the drugs.”"
         }
     },
     {
@@ -632,7 +568,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3767,
         "fields": {
             "question": 485,
-            "description": "We need more spending and lower interest rates, and we need to repeal the Taft-Hartley Act and put more money into the hands of the American people."
+            "description": "JOHN: \"It's just a rumour. I dunno how it started. You know, it's just untrue.\""
         }
     },
     {
@@ -640,7 +576,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3768,
         "fields": {
             "question": 485,
-            "description": "We must do better. Our present Administration has advocated a hard money policy which caused the recession of 1958 and left idle industrial capacity in our country."
+            "description": "PAUL: “Not true at all, I’m actually the one that’s leaving The Beatles”"
         }
     },
     {
@@ -648,15 +584,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3769,
         "fields": {
             "question": 485,
-            "description": "We are on the right track economically. We can't deny that there was a recession in 1958, but the recovery has been strong and 1960 will see a very high rate of growth in this country."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3770,
-        "fields": {
-            "question": 485,
-            "description": "The Eisenhower Administration has unfortunately failed to take any real action in undoing the excesses of the New Deal. I would like to see a more conservative Administration in power."
+            "description": "GEORGE: “Yes, John has decided to become a house husband and look after his dear wife and son.”"
         }
     },
     {
@@ -664,7 +592,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3774,
         "fields": {
             "question": 487,
-            "description": "The last thing we need is a return to excesses and witch-hunts of the early 1950s. We need to keep ourselves focused on the external Communist threat."
+            "description": "PAUL: \"We used to have LOTS of ambitions. You know like, number one records, Sunday Night At The Palladium, Ed Sullivan Show, go to America, you know. We've done an awful lot of them at the moment. We just want to be happy.\""
         }
     },
     {
@@ -672,15 +600,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3775,
         "fields": {
             "question": 487,
-            "description": "We should always be concerned about internal subversion, but the external Soviet threat should be our primary focus at this point."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3776,
-        "fields": {
-            "question": 487,
-            "description": "It's unfortunate that we've become less vigilant on the internal Communist threat in recent years. Espionage and infiltration of our government is as serious a threat as external Soviet action."
+            "description": "JOHN: “Well, we were talking about wanting to open a record label one day. But I think we should buy a plot of land and invite people to live there with us. Imagine that.”"
         }
     },
     {
@@ -688,7 +608,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3777,
         "fields": {
             "question": 488,
-            "description": "We've seen some alarming things out of Cuba, but this isn't necessarily a lost cause. Cuba has not declared itself a Communist state and we should be making overtures to prevent that."
+            "description": "GEORGE: \"Yes. Well, we've heard that our latest record came into the Australian Top Twenty right at Number One, which is very nice. And I think it's selling in other places like that, too.\""
         }
     },
     {
@@ -696,7 +616,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3778,
         "fields": {
             "question": 488,
-            "description": "We will defend our base at Guantanamo and do anything else that is necessary if Cuba continues its hostility. However, it is too early to make a conclusive determination at this point."
+            "description": "JOHN: “Yes. We are most excited that our records charted in Israel.”"
         }
     },
     {
@@ -704,7 +624,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3779,
         "fields": {
             "question": 488,
-            "description": "What we've unfortunately seen in Cuba is the consequence of insufficient support for anti-Communist governments and movements. We need to be much more aggressive in our actions against the Castro government."
+            "description": "PAUL: “We don’t really care about charting all over the world. The only place thing that matters to us is that people know us over here in America.”"
         }
     },
     {
@@ -712,7 +632,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3780,
         "fields": {
             "question": 489,
-            "description": "We lost a lot of ground diplomatically after this event, and much of that could have been avoided had we issued a formal apology."
+            "description": "JOHN: \"We already have.\""
         }
     },
     {
@@ -720,7 +640,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3781,
         "fields": {
             "question": 489,
-            "description": "A formal apology sounds a bit extreme, but we could certainly have expressed our regrets and perhaps saved the Paris Summit from collapse."
+            "description": "PAUL: \"Just because you don't like us, you know...\""
         }
     },
     {
@@ -728,7 +648,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3782,
         "fields": {
             "question": 489,
-            "description": "Absolutely not. We cannot show weakness in the face of the Soviet threat, and the Paris Summit collapsed from the intransigence of Nikita Khrushchev."
+            "description": "GEORGE: “No, but we don’t need to. We prefer a younger audience. More willing to join us.”"
         }
     },
     {
@@ -736,7 +656,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3783,
         "fields": {
             "question": 490,
-            "description": "He absolutely did, and I would like to see further action to desegregate our schools and enforce our civil rights."
+            "description": "Light up with Bobby"
         }
     },
     {
@@ -744,7 +664,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3784,
         "fields": {
             "question": 490,
-            "description": "I believe that Eisenhower did what he had to do in this case, to make sure the decisions of our Supreme Court are enforced."
+            "description": "The Beatles aren’t drug users!"
         }
     },
     {
@@ -752,7 +672,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3785,
         "fields": {
             "question": 490,
-            "description": "We should have found a better way to resolve this issue, rather than intrude into the sovereignty of an American state."
+            "description": "Let John smoke it all."
         }
     },
     {
@@ -760,7 +680,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3786,
         "fields": {
             "question": 491,
-            "description": "We need more spending and should consider lower taxes to stimulate American economy and industry."
+            "description": "GEORGE: \"Psychiatrists are menaces, too.\""
         }
     },
     {
@@ -768,7 +688,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3787,
         "fields": {
             "question": 491,
-            "description": "We need to strengthen our labor unions and protections for the nation's industry, including trade protections if necessary."
+            "description": "JOHN: “We are menaces. We want to bring out destructive instincts. The times are changing and you must change with us or get left behind.”"
         }
     },
     {
@@ -776,15 +696,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3788,
         "fields": {
             "question": 491,
-            "description": "If we continue our current economic policies, the economy should continue to recover into the 1960s and we will see a rebound in our employment rate."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3789,
-        "fields": {
-            "question": 491,
-            "description": "We need lower taxes, fewer regulations, and a smaller federal government. This will encourage private enterprise and spur a recovery to our industrial capacity."
+            "description": "PAUL: “I don’t think music can do that to people, if someone is a destructive person they’re going to find a reason.”"
         }
     },
     {
@@ -792,7 +704,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3794,
         "fields": {
             "question": 493,
-            "description": "Labor unions have been needlessly undermined by the Taft-Hartley Act, and by self-serving investigations from both parties. I will do anything I can as President to support our nation's laborers."
+            "description": "RINGO: \"I'm fine. They just want to take the tonsils out in case they cause any more trouble, you see. There's nothing wrong with them now. But they... you know. It could happen again.\""
         }
     },
     {
@@ -800,7 +712,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3795,
         "fields": {
             "question": 493,
-            "description": "I support unions and I oppose the excesses of leaders such as Jimmy Hoffa. Unions, cleansed of their corrupt elements, should play a central role in the American economy."
+            "description": "RINGO: “Well, let’s just say The Beatles might just be the Fab Three soon.”"
         }
     },
     {
@@ -808,15 +720,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3796,
         "fields": {
             "question": 493,
-            "description": "We should be vigilant against labor union excesses, and the Taft-Hartley Act was a good start. I believe that we should keep that law in place."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3797,
-        "fields": {
-            "question": 493,
-            "description": "We need to do anything we can to reduce the power of labor unions in this country, including a national right-to-work law."
+            "description": "RINGO: “We’ve been touring eight days a week, I think once we get back home I’ll feel a bit better.”"
         }
     },
     {
@@ -824,7 +728,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3798,
         "fields": {
             "question": 494,
-            "description": "I believe that we need more vigilance in the area of defense, for both military equipment and for missile development. We currently have a missile gap with the Soviet Union."
+            "description": "JOHN: \"We're just singers, you know. Or shouters, whatever you like to call it.\""
         }
     },
     {
@@ -832,7 +736,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3799,
         "fields": {
             "question": 494,
-            "description": "We can always find areas for improvement, but we have successfully defended the United States and our allies from numerous Communist threats over the past eight years."
+            "description": "PAUL:  “Well depends, I guess John and I are singers and Ringo and George are more idle.”"
         }
     },
     {
@@ -840,7 +744,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3800,
         "fields": {
             "question": 494,
-            "description": "In the final analysis, every dollar spent on defense is taken from more productive uses within our economy. I will look for ways to find common ground with the Soviet Union so that we can cut defense spending."
+            "description": "RINGO: “I think of myself as more of a drummer and romantic idol.”"
         }
     },
     {
@@ -848,7 +752,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3801,
         "fields": {
             "question": 495,
-            "description": "We will campaign up and down New York and the Eastern Seaboard."
+            "description": "Try and score some pot to celebrate."
         }
     },
     {
@@ -856,7 +760,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3802,
         "fields": {
             "question": 495,
-            "description": "We will focus on the Midwest."
+            "description": "There’s no time to celebrate, we have to keep writing."
         }
     },
     {
@@ -864,15 +768,31 @@ campaignTrail_temp.answers_json = [
         "pk": 3803,
         "fields": {
             "question": 495,
-            "description": "We will travel to California and the West Coast."
+            "description": "Go out for a drink with Brian and the rest of the crew."
         }
     },
     {
         "model": "campaign_trail.answer",
-        "pk": 3804,
+        "pk": 13247,
         "fields": {
-            "question": 495,
-            "description": "We will focus on Texas and the South."
+            "question": 458,
+            "description": "Long Tall Sally"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13248,
+        "fields": {
+            "question": 450,
+            "description": "Scrambled Eggs (WIP Paul song)"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13249,
+        "fields": {
+            "question": 450,
+            "description": "A Hard Day’s Night"
         }
     }
 ]
