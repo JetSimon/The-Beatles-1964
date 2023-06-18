@@ -4,7 +4,7 @@ campaignTrail_temp.questions_json = [
         "pk": 448,
         "fields": {
             "priority": 1,
-            "description": "What kind of tone will you attempt to set in your campaign this fall?",
+            "description": "You are about to play televised for millions of Americans on The Ed Sullivan Show. Your opening song will leave a lasting impression on people, which song do you choose to start with?\n",
             "likelihood": 1
         }
     },
@@ -13,7 +13,7 @@ campaignTrail_temp.questions_json = [
         "pk": 449,
         "fields": {
             "priority": 2,
-            "description": "What do you have to say about the selection of Lyndon Johnson as your running mate?",
+            "description": "What do you have to say about your manager, Brian Epstein?\n",
             "likelihood": 1
         }
     },
@@ -22,7 +22,7 @@ campaignTrail_temp.questions_json = [
         "pk": 476,
         "fields": {
             "priority": 3,
-            "description": "There was a recent effort in Congress to pass a program to provide medical care to elderly Americans, but it was narrowly defeated. Will you make a further push for this type of program as President?",
+            "description": "How did you ever decide on a name like The Beatles for the group?\n",
             "likelihood": 1
         }
     },
@@ -31,7 +31,7 @@ campaignTrail_temp.questions_json = [
         "pk": 494,
         "fields": {
             "priority": 3,
-            "description": "Do you believe that current levels of defense spending are adequate?",
+            "description": "Do you guys think of yourselves as singers and romantic idols at the same time?\n",
             "likelihood": 1
         }
     },
@@ -40,7 +40,7 @@ campaignTrail_temp.questions_json = [
         "pk": 485,
         "fields": {
             "priority": 3,
-            "description": "Are you satisfied with the economy and the economic policies of this country over the past eight years?",
+            "description": "What about this rumor that John is leaving the group?\n",
             "likelihood": 1
         }
     },
@@ -49,7 +49,7 @@ campaignTrail_temp.questions_json = [
         "pk": 479,
         "fields": {
             "priority": 4,
-            "description": "Is the United States adequately prepared to defend against the Soviet threat today?",
+            "description": "You really got started, I understand you particularly John, with a skiffle group. Did this automatically grow into what is now the Beatles, or did this come over a period of quite a number of years?\n",
             "likelihood": 1
         }
     },
@@ -58,7 +58,7 @@ campaignTrail_temp.questions_json = [
         "pk": 480,
         "fields": {
             "priority": 5,
-            "description": "Do you believe the United States is adequately prepared to defend against the Soviet threat over the next ten years?",
+            "description": "Some good, Christian Americans are worried that more teenagers are listening to The Beatles than to the words of Jesus Christ. What do you think about that?\n",
             "likelihood": 1
         }
     },
@@ -67,7 +67,7 @@ campaignTrail_temp.questions_json = [
         "pk": 458,
         "fields": {
             "priority": 6,
-            "description": "Richard Nixon has made \"experience\" the centerpiece of his campaign. What do you have to say on this point?",
+            "description": "After this long on the tour, you’re getting tired of playing the same songs every night to a screaming audience who can barely hear anything. You’ve decided to introduce a new song into the setlist. Which song do you choose?",
             "likelihood": 1
         }
     },
@@ -76,7 +76,7 @@ campaignTrail_temp.questions_json = [
         "pk": 455,
         "fields": {
             "priority": 7,
-            "description": "Anti-Catholicism has been a huge issue thus far in the campaign, with hundreds of pamphlets and leaflets being distributed across the South and Midwest. Do you have any comment?",
+            "description": "Some fans have been throwing jellybeans at you before shows, do you think some of the kids should be ejected by the police?\n",
             "likelihood": 1
         }
     },
@@ -85,7 +85,7 @@ campaignTrail_temp.questions_json = [
         "pk": 490,
         "fields": {
             "priority": 8,
-            "description": "Did Dwight Eisenhower do the right thing when he sent federal troops to Little Rock to ensure the integration of the high school there?",
+            "description": "After a show you’re back to your hotel. When you all finally get settled in you get a message from Brian. It seems that Bob Dylan is here to visit you! As huge Bob Dylan fans you are all quite excited. After a brief introduction he asks if The Beatles would be interested in smoking some marijuanna. What do you do?",
             "likelihood": 1
         }
     },
@@ -94,7 +94,7 @@ campaignTrail_temp.questions_json = [
         "pk": 457,
         "fields": {
             "priority": 8,
-            "description": "There have been a large number of sit-ins recently, where black students and activists are sitting at whites-only lunch counters and department stores to advocate for desegregation. Do you support this movement?",
+            "description": "I want to ask the Beatles what they think of Barry Goldwater.",
             "likelihood": 1
         }
     },
@@ -103,7 +103,7 @@ campaignTrail_temp.questions_json = [
         "pk": 489,
         "fields": {
             "priority": 8,
-            "description": "Should the United States apologize to the Soviet Union for the controversy surrounding the downed U-2 spy plane and surrounding espionage?",
+            "description": "Do you think you'll ever have any appeal for people above the age of twenty?\n",
             "likelihood": 1
         }
     },
@@ -112,7 +112,7 @@ campaignTrail_temp.questions_json = [
         "pk": 456,
         "fields": {
             "priority": 9,
-            "description": "Anti-Catholicism continues to be an issue. Major newspapers have published a statement by 150 Protestant clergy, including Norman Vincent Peale, opposing any Catholic as President. Do you have any comment?",
+            "description": "Your next show is in Kansas City. You have room to add one more song to your setlist, which song do you choose?",
             "likelihood": 1
         }
     },
@@ -121,7 +121,7 @@ campaignTrail_temp.questions_json = [
         "pk": 454,
         "fields": {
             "priority": 10,
-            "description": "There has been a proposal for a series of television debates between you and Kennedy. Is this something you are interested in?",
+            "description": "There are rumors that some of your upcoming concerts may be racially segregated, where do you stand on that issue?",
             "likelihood": 1
         }
     },
@@ -130,7 +130,7 @@ campaignTrail_temp.questions_json = [
         "pk": 477,
         "fields": {
             "priority": 11,
-            "description": "Do you believe that the islands of Quemoy and Matsu should fall within the United States defense perimeter in Asia?",
+            "description": "What do you think of the Dave Clark Five and the Rolling Stones?\n",
             "likelihood": 1
         }
     },
@@ -139,7 +139,7 @@ campaignTrail_temp.questions_json = [
         "pk": 487,
         "fields": {
             "priority": 11,
-            "description": "How serious, at the current time, do you believe the internal Communist threat is?",
+            "description": "What are your ambitions?\n",
             "likelihood": 1
         }
     },
@@ -148,7 +148,7 @@ campaignTrail_temp.questions_json = [
         "pk": 493,
         "fields": {
             "priority": 11,
-            "description": "What is your position on the power of labor unions in the United States?",
+            "description": "Ringo, It was just three days before you became ill, and I'm wondering... I've heard reports that you may have to go back to the hospital and you may need an operation. I wonder how things are.\n",
             "likelihood": 1
         }
     },
@@ -157,7 +157,7 @@ campaignTrail_temp.questions_json = [
         "pk": 482,
         "fields": {
             "priority": 11,
-            "description": "What is your opinion on the current level of education funding in the United States? Would you increase federal education funding, even if it meant higher taxes or a larger budget deficit?",
+            "description": "Today is the day you’ve all been waiting the whole tour for: the day The Beatles meet their hero Elvis Presley! How do you introduce yourselves?\n",
             "likelihood": 1
         }
     },
@@ -166,7 +166,7 @@ campaignTrail_temp.questions_json = [
         "pk": 483,
         "fields": {
             "priority": 11,
-            "description": "Would you support the passage of a federal civil rights bill as President to address the worst excesses of segregation in the South?",
+            "description": "What are some of your talents? For instance, we know singing, we know music, we know writer, we know photography. What else do you do?\n",
             "likelihood": 1
         }
     },
@@ -175,7 +175,7 @@ campaignTrail_temp.questions_json = [
         "pk": 488,
         "fields": {
             "priority": 11,
-            "description": "Do you believe that Cuba has been lost to the Communists as of this time? If so, do you think it is partially the fault of the United States?",
+            "description": "Have you heard that your records are getting into the Pop charts in countries all over the world?\n",
             "likelihood": 1
         }
     },
@@ -184,7 +184,7 @@ campaignTrail_temp.questions_json = [
         "pk": 478,
         "fields": {
             "priority": 11,
-            "description": "Currently the highest income tax bracket pays a rate of 91%. Will you work harder to cut tax rates as President?",
+            "description": "Which artist or musical group do you think has most influenced your music?",
             "likelihood": 1
         }
     },
@@ -193,7 +193,7 @@ campaignTrail_temp.questions_json = [
         "pk": 491,
         "fields": {
             "priority": 11,
-            "description": "What would you do as President to combat increasing unemployment in America's industrial cities?",
+            "description": "A psychiatrist in Seattle is saying that you are a menace-- You bring out the destructive instincts in teenagers, and you oughta be banned\n",
             "likelihood": 1
         }
     },
@@ -202,7 +202,7 @@ campaignTrail_temp.questions_json = [
         "pk": 484,
         "fields": {
             "priority": -3,
-            "description": "Recently, Martin Luther King Jr. was arrested at a sit-in in Atlanta, and has now been sentenced to four months in prison for failing to get a Georgia driver's license after moving to that state. Do you have any comment or action you would like to take?",
+            "description": "What influenced you fellas to let your hair grow so long?\n",
             "likelihood": 1
         }
     },
@@ -211,7 +211,7 @@ campaignTrail_temp.questions_json = [
         "pk": 450,
         "fields": {
             "priority": -2,
-            "description": "Lady Bird Johnson, LBJ's wife, has been spat on by a gathering of far-right protestors in a Dallas hotel lobby. What are your thoughts?",
+            "description": "You are about to play the final show of the tour. Which song do you close the tour with?",
             "likelihood": 1
         }
     },
@@ -220,7 +220,7 @@ campaignTrail_temp.questions_json = [
         "pk": 495,
         "fields": {
             "priority": -1,
-            "description": "Where will you spend your final day before the election?",
+            "description": "What do you boys do the night before you head back to England?",
             "likelihood": 1
         }
     }
