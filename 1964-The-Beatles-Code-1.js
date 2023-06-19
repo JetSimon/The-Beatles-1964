@@ -80,9 +80,9 @@ e.candidate_json = [
       is_active: 1,
       image_url:
         "https://media.discordapp.net/attachments/991561766037356614/1118335484955983883/beatles.png?width=462&height=528",
-      electoral_victory_message: "<h3>REAL PATRIOT DUMMY EXAMPLE SWEEPS</h3>",
-      electoral_loss_message: "<h3>Fake News?</h3>",
-      no_electoral_majority_message: "<h3>DUMMY EXAMPLE RETURNS TO HELL</h3>",
+      electoral_victory_message: "<h3>BEATLEMANIA TAKES HOLD OF AMERICA</h3><p>In spite of countless barriers and the dominance of American music, The Beatles have triumphed, capturing the hearts and minds of the American people.</p><p>This historic achievement wasn't easy. The Fab Four faced controversy and a multitude of banal press junkets, but their music and charm persevered, propelling them to the toppermost of the poppermost.</p>",
+      electoral_loss_message: "<h3>ROLLING STONE FEVER TAKES HOLD OF AMERICA</h3><p>In the face of a formidable challenge from The Rolling Stones, The Beatles never stood a chance. The fab four from Liverpool would never be able to match the raw energy of the Stones.</p><p>The Beatles will be remembered, but mainly by as a curiousity by future music historians. As one timer rivals to the true kings: The Rolling Stones.</p>",
+      no_electoral_majority_message: "<h3>NO CLEAR WINNER</h3><p>It isn't clear who was the winner of The British Invasion. Despite a vicious battle between The Rolling Stones and The Beatles.</p><p>In the end both groups were quickly forgotten as the decade wore on. Destined to be just a footnote in music history.</p>",
       description_as_running_mate: null,
       candidate_score: 1,
       running_mate: false,
