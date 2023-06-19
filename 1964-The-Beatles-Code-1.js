@@ -75,7 +75,7 @@ e.candidate_json = [
       priority: 1,
       description:
         'John Lennon, Paul McCartney, George Harrison, and Richard "Ringo Starr" Starkey are The Beatles. The hottest band out of Liverpool and kings of the Mersey Beat. Do they have what it takes to make it in America?',
-      color_hex: "#0000ff",
+      color_hex: "#7faefa",
       secondary_color_hex: null,
       is_active: 1,
       image_url:
@@ -101,7 +101,7 @@ e.candidate_json = [
       priority: 1,
       description:
         "The Rolling Stones are The Beatles for those who think The Beatles are too pure. Their unique takes on blues rock is getting them some airplay, but they've only just started writing their own tunes.",
-      color_hex: "#ff000d",
+      color_hex: "#ff7d66",
       secondary_color_hex: null,
       is_active: 0,
       image_url:
@@ -153,7 +153,7 @@ e.candidate_json = [
       priority: 1,
       description:
         "The King of Rock n' Roll himself. Although his fame has wavered in recent years, he is still quite popular with teenagers. Every band from Britain wants to be like Elvis. Will he keep his throne or will he be ousted?",
-      color_hex: "#ffea00",
+      color_hex: "#fbff80",
       secondary_color_hex: null,
       is_active: 0,
       image_url:
