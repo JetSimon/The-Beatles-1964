@@ -4,7 +4,7 @@ campaignTrail_temp.questions_json = [
         "pk": 448,
         "fields": {
             "priority": 1,
-            "description": "You are about to play televised for millions of Americans on The Ed Sullivan Show. Your opening song will leave a lasting impression on people, which song do you choose to start with?\n",
+            "description": "Feb. 9, 1964: You are about to play televised for millions of Americans on The Ed Sullivan Show. Your opening song will leave a lasting impression on people, which song do you choose to start with?\n",
             "likelihood": 1
         }
     },
@@ -67,7 +67,7 @@ campaignTrail_temp.questions_json = [
         "pk": 458,
         "fields": {
             "priority": 6,
-            "description": "After this long on the tour, you’re getting tired of playing the same songs every night to a screaming audience who can barely hear anything. You’ve decided to introduce a new song into the setlist. Which song do you choose?",
+            "description": "Apr. 23, 1964: After this long on the tour, you’re getting tired of playing the same songs every night to a screaming audience who can barely hear anything. You’ve decided to introduce a new song into the setlist. Which song do you choose?",
             "likelihood": 1
         }
     },
@@ -85,7 +85,7 @@ campaignTrail_temp.questions_json = [
         "pk": 490,
         "fields": {
             "priority": 8,
-            "description": "After a show you’re back to your hotel. When you all finally get settled in you get a message from Brian. It seems that Bob Dylan is here to visit you! As huge Bob Dylan fans you are all quite excited. After a brief introduction he asks if The Beatles would be interested in smoking some marijuanna. What do you do?",
+            "description": "Aug 28, 1964: After a show you’re back to your hotel. When you all finally get settled in you get a message from Brian. It seems that Bob Dylan is here to visit you! As huge Bob Dylan fans you are all quite excited. After a brief introduction he asks if The Beatles would be interested in smoking some marijuanna. What do you do?",
             "likelihood": 1
         }
     },
@@ -112,7 +112,7 @@ campaignTrail_temp.questions_json = [
         "pk": 456,
         "fields": {
             "priority": 9,
-            "description": "Your next show is in Kansas City. You have room to add one more song to your setlist, which song do you choose?",
+            "description": "Sept. 17, 1964: Your next show is in Kansas City. You have room to add one more song to your setlist, which song do you choose?",
             "likelihood": 1
         }
     },
