@@ -736,7 +736,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3799,
         "fields": {
             "question": 494,
-            "description": "PAUL:  “Well depends, I guess John and I are singers and Ringo and George are more idle.”"
+            "description": "PAUL: “Well depends, I guess John and I are singers and Ringo and George are more idle.”"
         }
     },
     {
@@ -8427,7 +8427,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3659,
             "candidate": 105,
-            "answer_feedback": "This is the party line that people want to hear. Good luck this fall!"
+            "answer_feedback": "You open with the upbeat classic, I Want To Hold Your Hand. It goes quite well and the audience seems thrilled. After the show you hear some members of the audience arguing if the chorus to the song was “I can’t hide” or “I get high”. Hopefully this doesn’t get you into any trouble.\n"
         }
     },
     {
@@ -8436,7 +8436,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3660,
             "candidate": 105,
-            "answer_feedback": "This may be more accurate, given your record. Let's see how it flies with the voting public this fall."
+            "answer_feedback": "All My Loving is the perfect introduction to The Beatles for America. It isn’t your strongest song but it leaves the audience wanting more. America has met The Beatles!\n"
         }
     },
     {
@@ -8445,7 +8445,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3661,
             "candidate": 105,
-            "answer_feedback": "Good luck with your bold agenda for the future."
+            "answer_feedback": "Well boys, I’m not sure if starting off your set with a slow tune literally titled Misery was the best choice. Let’s see if we can salvage this during the second set, yeah?"
         }
     },
     {
@@ -8454,7 +8454,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3662,
             "candidate": 105,
-            "answer_feedback": "This line of reasoning could work, if voters don't find it too clever by half."
+            "answer_feedback": "Debuting in America with a cover of The Shirelles that Ringo sings is an interesting choice. Daringly you’ve opted NOT to reverse the genders of the song, leaving conservative America outraged by the homosexual undertones.\n"
         }
     },
     {
@@ -8463,7 +8463,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3663,
             "candidate": 105,
-            "answer_feedback": "Your words of support help as LBJ begins campaigning in the South. He will cajole and strong-arm that region's politicians into disavowing the unpledged elector movement."
+            "answer_feedback": "Thanks for the acknowledgement Paul, this is a good likeable answer."
         }
     },
     {
@@ -8472,7 +8472,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3664,
             "candidate": 105,
-            "answer_feedback": "Your words of support help as LBJ begins campaigning in the South. He will cajole and strong-arm that region's politicians into disavowing the unpledged elector movement."
+            "answer_feedback": "This answer is sure to help fears that The Beatles are corrupting America’s youth."
         }
     },
     {
@@ -8481,7 +8481,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3665,
             "candidate": 105,
-            "answer_feedback": "One ugly incident may not swing too many voters to your side, but any little bit helps late in a campaign."
+            "answer_feedback": "This is a classic and rambunctious cover that leaves everyone dancing and sweaty."
         }
     },
     {
@@ -8490,7 +8490,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3673,
             "candidate": 105,
-            "answer_feedback": "Nixon is better known than you are, you're a good debater, and you're telegenic. Why would you not want to debate him?"
+            "answer_feedback": "Good job taking a stand on this issue. Segregation is a hot topic issue but it’s important to be on the right side of history."
         }
     },
     {
@@ -8499,7 +8499,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3674,
             "candidate": 105,
-            "answer_feedback": "You've managed to come across as Nixon's equal in these debates, and that alone is a good start..."
+            "answer_feedback": "Trying to please everyone on an important issue like segregation isn’t going to do The Beatles any favours."
         }
     },
     {
@@ -8526,7 +8526,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3677,
             "candidate": 105,
-            "answer_feedback": "The impulse is noble, but you come across as a little petty as you awkwardly read from these leaflets at your latest press conference."
+            "answer_feedback": "A sensible answer that offends no one."
         }
     },
     {
@@ -8535,7 +8535,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3679,
             "candidate": 105,
-            "answer_feedback": "You might get away with this for awhile, but be careful that you don't let these attacks snowball."
+            "answer_feedback": "What are you talking about Paul? An answer like this is sure to damage The Beatles’ reputation."
         }
     },
     {
@@ -8544,7 +8544,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3680,
             "candidate": 105,
-            "answer_feedback": "Giving this speech was a good idea. Many people were impressed, and it provided good material for future advertisements."
+            "answer_feedback": "It’s always fun to play a song named after the city you’re in. In this case the classic cover is the perfect song to add to your setlist."
         }
     },
     {
@@ -8553,7 +8553,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3681,
             "candidate": 105,
-            "answer_feedback": "This is an acceptable response, but it wouldn't have harmed you to be a little more bold."
+            "answer_feedback": "Although I love it, a downtempo song like If I Fell isn’t exactly a great song to add to your setlist at this point in the tour."
         }
     },
     {
@@ -8571,7 +8571,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3683,
             "candidate": 105,
-            "answer_feedback": "This will help you drive turnout in the northern states, and hurt a little in the South."
+            "answer_feedback": "This is a good liberal answer that will motivate sales of your albums."
         }
     },
     {
@@ -8580,7 +8580,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3684,
             "candidate": 105,
-            "answer_feedback": "This is a safe answer that won't hurt you too much with anybody."
+            "answer_feedback": "This is an answer that will appeal to far right conservatives and not many else."
         }
     },
     {
@@ -8598,7 +8598,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3687,
             "candidate": 105,
-            "answer_feedback": "This might not be the right answer in the case of Nixon. It comes off as overly aggressive, and if 8 years as Vice President is not enough experience, where does that leave you?"
+            "answer_feedback": "Although this song is a Lennon-McCartney original, it is currently in the charts due to a cover by The Rolling Stones. You accidentally raise their popularity as a result."
         }
     },
     {
@@ -8607,16 +8607,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3737,
             "candidate": 105,
-            "answer_feedback": "This will certainly galvanize your base, but it's hard to imagine that you can get national health insurance passed after the failures of Truman on this front."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1267,
-        "fields": {
-            "answer": 3737,
-            "candidate": 106,
-            "answer_feedback": "National health insurance is not a Republican issue."
+            "answer_feedback": "John, what are you talking about? Beatniks may like this but this isn’t doing us any favours with the general public."
         }
     },
     {
@@ -8625,16 +8616,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3738,
             "candidate": 105,
-            "answer_feedback": "This is exactly what your party wants to hear and will push for on this issue."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1269,
-        "fields": {
-            "answer": 3738,
-            "candidate": 106,
-            "answer_feedback": "You are definitely going against the Republican Congress on this issue, but it could work to your benefit."
+            "answer_feedback": "This is a solid answer that is sure to boost your popularity in regions where Buddy Holly is still popular."
         }
     },
     {
@@ -8643,16 +8625,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3739,
             "candidate": 105,
-            "answer_feedback": "This is really more of a Republican idea, and it's not like old-age health insurance is unpopular..."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1271,
-        "fields": {
-            "answer": 3739,
-            "candidate": 106,
-            "answer_feedback": "This is right in line with the goals of your party."
+            "answer_feedback": "George, America doesn’t need to know about your past popping pills in Hamburg nightclubs! We’re going to have to do some damage control."
         }
     },
     {
@@ -8679,16 +8652,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3741,
             "candidate": 105,
-            "answer_feedback": "People want to see a President who is tough on Communism, but even some staunch anti-Communists feel that sending troops to such tiny and remote islands is ill-advised."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1275,
-        "fields": {
-            "answer": 3741,
-            "candidate": 106,
-            "answer_feedback": "People want to see a President who is tough on Communism, but even some staunch anti-Communists feel that sending troops to such tiny and remote islands is ill-advised."
+            "answer_feedback": "Boosting your chief rivals isn’t going to help you keep your position as top dog in the American market."
         }
     },
     {
@@ -8697,16 +8661,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3742,
             "candidate": 105,
-            "answer_feedback": "This is a good answer for this situation."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1277,
-        "fields": {
-            "answer": 3742,
-            "candidate": 106,
-            "answer_feedback": "This is a good answer for this situation."
+            "answer_feedback": "This is a succinct answer that doesn’t overly promote the Stones or exclude Dave Clark."
         }
     },
     {
@@ -8715,16 +8670,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3743,
             "candidate": 105,
-            "answer_feedback": "Nixon is questioning your hesitation on this issue. Fortunately, however, the average voter has never heard of Quemoy and Matsu."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1279,
-        "fields": {
-            "answer": 3743,
-            "candidate": 106,
-            "answer_feedback": "Kennedy is questioning your hesitation on this issue. Fortunately, however, the average voter has never heard of Quemoy and Matsu."
+            "answer_feedback": "This answer seems a little out of touch with the youth of America."
         }
     },
     {
@@ -8750,8 +8696,8 @@ campaignTrail_temp.answer_feedback_json = [
         "pk": 1282,
         "fields": {
             "answer": 3745,
-            "candidate": 106,
-            "answer_feedback": "There's a consensus from both sides that the top tax rate is too high. Your answer definitely puts you on the liberal end of the debate."
+            "candidate": 105,
+            "answer_feedback": "No one in the press junket understands an obscure Liverpool reference like this."
         }
     },
     {
@@ -8760,7 +8706,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3748,
             "candidate": 105,
-            "answer_feedback": "As a challenger in this election, it's better to point out problems in the foreign policy of Eisenhower, than to say it has been completely effective."
+            "answer_feedback": "A succinct answer. The kind that fuels the legend of The Beatles."
         }
     },
     {
@@ -8768,8 +8714,8 @@ campaignTrail_temp.answer_feedback_json = [
         "pk": 1284,
         "fields": {
             "answer": 3749,
-            "candidate": 106,
-            "answer_feedback": "This is a good answer that supports the record and policies of yourself and Eisenhower."
+            "candidate": 105,
+            "answer_feedback": "This is a funny answer that appeals to the youth of America."
         }
     },
     {
@@ -8777,8 +8723,8 @@ campaignTrail_temp.answer_feedback_json = [
         "pk": 1285,
         "fields": {
             "answer": 3750,
-            "candidate": 106,
-            "answer_feedback": "Not only does it undercut your claims as Eisenhower's successor, but it also offends Eisenhower personally when you criticize his foreign policy."
+            "candidate": 105,
+            "answer_feedback": "Although intended as a joke, it seems the conservative population has taken it at face value. They approve of this straight laced reference to “real music”. "
         }
     },
     {
@@ -8787,7 +8733,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3751,
             "candidate": 105,
-            "answer_feedback": "As a challenger in this election, it's better to point out problems in the foreign policy of Eisenhower, than to say it has been completely effective."
+            "answer_feedback": "John! This is America we’re talking about. You can’t go around saying things like this, people are going to be very upset."
         }
     },
     {
@@ -8795,8 +8741,8 @@ campaignTrail_temp.answer_feedback_json = [
         "pk": 1287,
         "fields": {
             "answer": 3752,
-            "candidate": 106,
-            "answer_feedback": "Not only does it undercut your claims as Eisenhower's successor, but it also offends Eisenhower personally when you criticize his foreign policy."
+            "candidate": 105,
+            "answer_feedback": "This is a humble answer that skillfully dodges the question. You might have a future in politics Paul."
         }
     },
     {
@@ -8814,16 +8760,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3757,
             "candidate": 105,
-            "answer_feedback": "This is a good answer that should win support for you from Democrats."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1296,
-        "fields": {
-            "answer": 3757,
-            "candidate": 106,
-            "answer_feedback": "This isn't a good response for the majority of your party."
+            "answer_feedback": "Despite your best efforts you’re unable to get Elvis alone. Something is very off about his relationship with Colonel Tom. Elvis may not be the king for much longer."
         }
     },
     {
@@ -8832,16 +8769,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3759,
             "candidate": 105,
-            "answer_feedback": "This isn't a good response for the majority of your party."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1298,
-        "fields": {
-            "answer": 3759,
-            "candidate": 106,
-            "answer_feedback": "This is a good answer that should win support for you from Republicans."
+            "answer_feedback": "You have a brief if not awkward conversation with Elvis. Before you know it you’re all back in the van on the way to your next show."
         }
     },
     {
@@ -8850,16 +8778,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3764,
             "candidate": 105,
-            "answer_feedback": "This definitely helps you with the black and liberal vote in the north."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1300,
-        "fields": {
-            "answer": 3764,
-            "candidate": 106,
-            "answer_feedback": "You and Kennedy are both making public statements, and it seems like people outside the South are generally upset at King's imprisonment for such a trivial offense."
+            "answer_feedback": "This is a humorous answer, though some people may take it at face value."
         }
     },
     {
@@ -8868,16 +8787,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3766,
             "candidate": 105,
-            "answer_feedback": "This seems like an overly critical response where Dr. King is concerned. "
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1302,
-        "fields": {
-            "answer": 3766,
-            "candidate": 106,
-            "answer_feedback": "This seems like an overly critical response where Dr. King is concerned. "
+            "answer_feedback": "This is an answer that will upset some Americans."
         }
     },
     {
@@ -8886,16 +8796,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3767,
             "candidate": 105,
-            "answer_feedback": "Repeal of Taft-Hartley is bound to appeal to the union wing of the party."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1304,
-        "fields": {
-            "answer": 3767,
-            "candidate": 106,
-            "answer_feedback": "You yourself voted for the passage of Taft-Hartley, and that law has wide support in the Republican Party."
+            "answer_feedback": "Good job putting the rumours to rest. Faith in The Beatles should increase."
         }
     },
     {
@@ -8903,8 +8804,8 @@ campaignTrail_temp.answer_feedback_json = [
         "pk": 1305,
         "fields": {
             "answer": 3768,
-            "candidate": 106,
-            "answer_feedback": "Not only does it undercut your claims as Eisenhower's successor, but it also offends Eisenhower personally when you criticize his economic record."
+            "candidate": 105,
+            "answer_feedback": "Not everyone gets your sense of humour, Paul. Some people seem to think The Beatles are disbanding."
         }
     },
     {
@@ -8913,7 +8814,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3769,
             "candidate": 105,
-            "answer_feedback": "As a challenger in this election, it doesn't make sense for you to praise Eisenhower's economic record."
+            "answer_feedback": "Even though George intended it as a joke, the public isn’t widely aware that John is married yet. This hurts The Beatles image as available young men."
         }
     },
     {
@@ -8939,8 +8840,8 @@ campaignTrail_temp.answer_feedback_json = [
         "pk": 1313,
         "fields": {
             "answer": 3774,
-            "candidate": 106,
-            "answer_feedback": "Many remember your role (for better or worse) in unmasking Alger Hiss and other incidents, and are surprised to hear you talking about “witch hunts” now."
+            "candidate": 105,
+            "answer_feedback": "This is a humble answer that makes The Beatles look good to the public."
         }
     },
     {
@@ -8967,16 +8868,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3779,
             "candidate": 105,
-            "answer_feedback": "It's good to be aggressive during the campaign, but can you back it up if you are elected?"
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1317,
-        "fields": {
-            "answer": 3779,
-            "candidate": 106,
-            "answer_feedback": "Some are interpreting this as a criticism or repudiation of Eisenhower, which does not play well for you."
+            "answer_feedback": "Appealing to America’s patriotic side is a great idea. Even the beatniks love America."
         }
     },
     {
@@ -8985,16 +8877,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3780,
             "candidate": 105,
-            "answer_feedback": "The headlines today say, “KENNEDY ADVOCATES APOLOGY TO SOVIET UNION”, which is probably not a good thing."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1319,
-        "fields": {
-            "answer": 3780,
-            "candidate": 106,
-            "answer_feedback": "The headlines today say, “NIXON ADVOCATES APOLOGY TO SOVIET UNION”, which is probably not a good thing."
+            "answer_feedback": "This is a good, witty response that will appeal to the public."
         }
     },
     {
@@ -9003,16 +8886,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3781,
             "candidate": 105,
-            "answer_feedback": "Nixon needles you a bit on this point, but it isn't too controversial."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1321,
-        "fields": {
-            "answer": 3781,
-            "candidate": 106,
-            "answer_feedback": "A few people are interpreting this as a criticism or repudiation of Eisenhower, which does not play well for you."
+            "answer_feedback": "This is the perfect comeback to a backhanded question like that."
         }
     },
     {
@@ -9021,16 +8895,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3785,
             "candidate": 105,
-            "answer_feedback": "This seems like a coded argument for segregation to some."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1323,
-        "fields": {
-            "answer": 3785,
-            "candidate": 106,
-            "answer_feedback": "This seems like a coded argument for segregation to some, and is also a repudiation of Eisenhower."
+            "answer_feedback": "Shortly after John finishes smoking, he starts to get paranoid. He gets very quiet for a while, only muttering something about “The Walrus” to himself for the next few hours. After it wears off he still seems a little…different."
         }
     },
     {
@@ -9039,16 +8904,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3786,
             "candidate": 105,
-            "answer_feedback": "This is a good combination of policies which is acceptable to liberals and moderates alike."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1325,
-        "fields": {
-            "answer": 3786,
-            "candidate": 106,
-            "answer_feedback": "Republicans don't like to hear you calling for more spending at this stage of the game."
+            "answer_feedback": "This is the kind of answer that will upset everyone for a different reason."
         }
     },
     {
@@ -9056,8 +8912,8 @@ campaignTrail_temp.answer_feedback_json = [
         "pk": 1326,
         "fields": {
             "answer": 3787,
-            "candidate": 106,
-            "answer_feedback": "This is not a winning argument for a Republican in a national election."
+            "candidate": 105,
+            "answer_feedback": "John, please listen to me. You can’t say things like this. You’ve been acting quite strange recently."
         }
     },
     {
@@ -9066,7 +8922,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3788,
             "candidate": 105,
-            "answer_feedback": "For a Democrat, this argument seems complacent and overly supportive of Eisenhower."
+            "answer_feedback": "This is a reasonable answer that pacifies a loaded question like that."
         }
     },
     {
@@ -9093,16 +8949,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3794,
             "candidate": 105,
-            "answer_feedback": "This is a little incongruous with some of what you and Robert Kennedy have been doing recently in the area of investigating union abuses."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1337,
-        "fields": {
-            "answer": 3794,
-            "candidate": 106,
-            "answer_feedback": "This is absolutely not what you need to say if you want to win this fall."
+            "answer_feedback": "This is a good answer that should quash any negative rumours about your health for now."
         }
     },
     {
@@ -9111,16 +8958,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3795,
             "candidate": 105,
-            "answer_feedback": "This is exactly what your party wants to hear."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1339,
-        "fields": {
-            "answer": 3795,
-            "candidate": 106,
-            "answer_feedback": "This seems a little too union-friendly for many potential Republican voters."
+            "answer_feedback": "This is the kind of answer that destroys the public’s trust in The Beatles' staying power."
         }
     },
     {
@@ -9129,7 +8967,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3796,
             "candidate": 105,
-            "answer_feedback": "You yourself voted against Taft-Hartley, and now you are reversing yourself in the midst of an election? For what reason?"
+            "answer_feedback": "This is a good answer that disarms a loaded question with a joke."
         }
     },
     {
@@ -9156,16 +8994,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3798,
             "candidate": 105,
-            "answer_feedback": "This is a core argument of your campaign, and a good place to differentiate yourself from the Republicans."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1344,
-        "fields": {
-            "answer": 3798,
-            "candidate": 106,
-            "answer_feedback": "Eisenhower is furious that you would join the Democrats in repeating the inaccurate “missile gap” allegation."
+            "answer_feedback": "This is a humble answer that will appeal to the general public."
         }
     },
     {
@@ -9174,7 +9003,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3799,
             "candidate": 105,
-            "answer_feedback": "This won't hurt you too much, but it does nothing to differentiate you from Nixon and Eisenhower."
+            "answer_feedback": "Not a good look disparaging your bandmates. People will think The Beatles lack unity."
         }
     },
     {
@@ -9183,16 +9012,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3800,
             "candidate": 105,
-            "answer_feedback": "This is definitely too soft of a stance to take on the issue of military spending and the Soviet Union."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1347,
-        "fields": {
-            "answer": 3800,
-            "candidate": 106,
-            "answer_feedback": "This is definitely too soft of a stance to take on the issue of military spending and the Soviet Union."
+            "answer_feedback": "This is the humorous kind of answer that the press expects from a Beatle."
         }
     },
     {
@@ -9201,16 +9021,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3801,
             "candidate": 105,
-            "answer_feedback": "You have enthusiastic crowds wherever you go. Unfortunately, Eisenhower has also hit the trail for the final few days, and is definitely helping Nixon. Good luck tonight!"
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1349,
-        "fields": {
-            "answer": 3801,
-            "candidate": 106,
-            "answer_feedback": "Everything is going well, except for an unfortunate incident in Texas which is giving Lyndon Johnson some good publicity there. Good luck tonight!"
+            "answer_feedback": "After the run in with Dylan, you have all started smoking marijuana more. Hopefully this doesn’t lead to anything too crazy."
         }
     },
     {
@@ -9219,16 +9030,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3802,
             "candidate": 105,
-            "answer_feedback": "You have enthusiastic crowds wherever you go. Unfortunately, Eisenhower has also hit the trail for the final few days, and is definitely helping Nixon. Good luck tonight!"
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1351,
-        "fields": {
-            "answer": 3802,
-            "candidate": 106,
-            "answer_feedback": "Everything is going well, except for an unfortunate incident in Texas which is giving Lyndon Johnson some good publicity there. Good luck tonight!"
+            "answer_feedback": "You are on a busy schedule and writing as much as you can will help you stay on top."
         }
     },
     {
@@ -9237,16 +9039,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3803,
             "candidate": 105,
-            "answer_feedback": "You have enthusiastic crowds wherever you go. Unfortunately, Eisenhower has also hit the trail for the final few days, and is definitely helping Nixon. Good luck tonight!"
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 1353,
-        "fields": {
-            "answer": 3803,
-            "candidate": 106,
-            "answer_feedback": "Everything is going well, except for an unfortunate incident in Texas which is giving Lyndon Johnson some good publicity there. Good luck tonight!"
+            "answer_feedback": "Making sure to thank the crew and the people that got you here is a good call, and one that makes sure you can tour again in the future."
         }
     },
     {
@@ -9266,6 +9059,168 @@ campaignTrail_temp.answer_feedback_json = [
             "candidate": 106,
             "answer_feedback": "Everything is going well, except for an unfortunate incident in Texas which is giving Lyndon Johnson some good publicity there. Good luck tonight!"
         }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13250,
+        "fields": {
+            "answer": 3686,
+            "candidate": 105,
+            "answer_feedback": "Although this Chuck Berry cover wins you points with the younger audience, it upsets older conservatives. But who cares about them, right?"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13251,
+        "fields": {
+            "answer": 3688,
+            "candidate": 105,
+            "answer_feedback": "A raucous original like Can’t Buy Me Love is the perfect choice to add to your set."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13252,
+        "fields": {
+            "answer": 13247,
+            "candidate": 105,
+            "answer_feedback": "Long Tall Sally is a solid choice to add to your set. However you may want to choose a song that isn’t a cover in the future."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13253,
+        "fields": {
+            "answer": 3678,
+            "candidate": 105,
+            "answer_feedback": "That answer is a little extreme. But it will definitely win you points with older conservatives. But they’re not exactly The Beatles’ audience."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13254,
+        "fields": {
+            "answer": 3783,
+            "candidate": 105,
+            "answer_feedback": "Any awkwardness in the room vanishes as you four and Bob spend the next hour pranking reception and trying to find some food."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13255,
+        "fields": {
+            "answer": 3784,
+            "candidate": 105,
+            "answer_feedback": "Bob gives you a strange look and makes an excuse to leave shortly after. It seems like your reputation has preceded you. This isn’t going to score you any points with the hip New York crowd."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13256,
+        "fields": {
+            "answer": 3782,
+            "candidate": 105,
+            "answer_feedback": "Join you in what exactly?"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13257,
+        "fields": {
+            "answer": 3775,
+            "candidate": 105,
+            "answer_feedback": "John, what are you talking about? You’ve never brought this up to me - your manager!"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13258,
+        "fields": {
+            "answer": 3758,
+            "candidate": 105,
+            "answer_feedback": "Trying to make enemies with the still reigning King of Rock isn’t a good idea. It makes you look bad to the public at large."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13259,
+        "fields": {
+            "answer": 3760,
+            "candidate": 105,
+            "answer_feedback": "The hip young beatniks always admire an artist."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13260,
+        "fields": {
+            "answer": 3761,
+            "candidate": 105,
+            "answer_feedback": "A non-committal answer like this won’t win you points with anyone."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13261,
+        "fields": {
+            "answer": 3762,
+            "candidate": 105,
+            "answer_feedback": "Very specific Ringo. Though maybe keep this kind of thing to yourself. People tend to be put off by people like you."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13262,
+        "fields": {
+            "answer": 3777,
+            "candidate": 105,
+            "answer_feedback": "This is a good general answer that leaves no one offended."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13263,
+        "fields": {
+            "answer": 3778,
+            "candidate": 105,
+            "answer_feedback": "This is a very specific answer. Some of the public is weirded out by it."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13264,
+        "fields": {
+            "answer": 3746,
+            "candidate": 105,
+            "answer_feedback": "Acknowledging The King’s influence on your music is a good idea to appeal to Americans."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13265,
+        "fields": {
+            "answer": 3765,
+            "candidate": 105,
+            "answer_feedback": "Although clearly a joke, it seems some of the more religious members of America now want to boycott The Beatles."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13266,
+        "fields": {
+            "answer": 13248,
+            "candidate": 105,
+            "answer_feedback": "“Scrambled eggs, Oh you've got such lovely legs”?! This song shouldn’t have been played yet. It’s too different from your current output and still needs time to cook."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13267,
+        "fields": {
+            "answer": 13249,
+            "candidate": 105,
+            "answer_feedback": "A very thematic closer for the tour, the crowd enjoys it."
+        }
     }
 ]
 
@@ -9274,7 +9229,21 @@ campaignTrail_temp.jet_data = [{
         "105": "The Beatles",
         "106": "The Rolling Stones",
         "107": "Elvis Presley"
-    }
+    },
+    "cyoa_enabled": false,
+    "banner_data": {
+        "canName": "Beatles",
+        "runName": "Epstein",
+        "canImage": "https://media.discordapp.net/attachments/991561766037356614/1118335484955983883/beatles.png?width=462&height=528",
+        "runImage": "https://media.discordapp.net/attachments/991561766037356614/1118336866907852820/epstein.png?width=462&height=528"
+    },
+    "cyoa_data": {},
+    "banner_enabled": true
 }
 ]
+
+campaignTrail_temp.candidate_image_url = "https://media.discordapp.net/attachments/991561766037356614/1118335484955983883/beatles.png?width=462&height=528"
+campaignTrail_temp.running_mate_image_url = "https://media.discordapp.net/attachments/991561766037356614/1118336866907852820/epstein.png?width=462&height=528"
+campaignTrail_temp.candidate_last_name = "Beatles"
+campaignTrail_temp.running_mate_last_name = "Epstein"
 
