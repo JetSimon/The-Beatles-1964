@@ -1483,7 +1483,7 @@ campaignTrail_temp.issues_json = [
         "model": "campaign_trail.issue",
         "pk": 38,
         "fields": {
-            "name": "Segregation",
+            "name": "Conservatism",
             "description": 0,
             "stance_1": "Segregationist",
             "stance_desc_1": 0,
@@ -6502,6 +6502,16 @@ campaignTrail_temp.answer_score_global_json = [
             "affected_candidate": 106,
             "global_multiplier": -0.001
         }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13268,
+        "fields": {
+            "answer": 3660,
+            "candidate": 105,
+            "affected_candidate": 105,
+            "global_multiplier": 0.01
+        }
     }
 ]
 
@@ -6513,16 +6523,6 @@ campaignTrail_temp.answer_score_issue_json = [
             "answer": 3659,
             "issue": 37,
             "issue_score": -0.51,
-            "issue_importance": 3
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1227,
-        "fields": {
-            "answer": 3659,
-            "issue": 38,
-            "issue_score": 0,
             "issue_importance": 3
         }
     },
@@ -6542,7 +6542,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3659,
             "issue": 40,
-            "issue_score": 0.645,
+            "issue_score": -0.2,
             "issue_importance": 3
         }
     },
@@ -6558,91 +6558,11 @@ campaignTrail_temp.answer_score_issue_json = [
     },
     {
         "model": "campaign_trail.answer_score_issue",
-        "pk": 1231,
-        "fields": {
-            "answer": 3660,
-            "issue": 37,
-            "issue_score": -0.55,
-            "issue_importance": 3
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1232,
-        "fields": {
-            "answer": 3660,
-            "issue": 38,
-            "issue_score": 0,
-            "issue_importance": 3
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1233,
-        "fields": {
-            "answer": 3660,
-            "issue": 39,
-            "issue_score": 0.325,
-            "issue_importance": 3
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1234,
-        "fields": {
-            "answer": 3660,
-            "issue": 40,
-            "issue_score": 0.645,
-            "issue_importance": 3
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
         "pk": 1235,
         "fields": {
             "answer": 3660,
             "issue": 41,
-            "issue_score": 0.325,
-            "issue_importance": 3
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1236,
-        "fields": {
-            "answer": 3661,
-            "issue": 37,
-            "issue_score": -0.45,
-            "issue_importance": 3
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1237,
-        "fields": {
-            "answer": 3661,
-            "issue": 38,
             "issue_score": 0.5,
-            "issue_importance": 3
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1238,
-        "fields": {
-            "answer": 3661,
-            "issue": 39,
-            "issue_score": 0.5,
-            "issue_importance": 3
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1239,
-        "fields": {
-            "answer": 3661,
-            "issue": 40,
-            "issue_score": 0.65,
             "issue_importance": 3
         }
     },
@@ -6652,7 +6572,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3661,
             "issue": 41,
-            "issue_score": 0.5,
+            "issue_score": -0.5,
             "issue_importance": 3
         }
     },
@@ -6661,8 +6581,8 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 1241,
         "fields": {
             "answer": 3662,
-            "issue": 37,
-            "issue_score": -0.525,
+            "issue": 38,
+            "issue_score": 0.525,
             "issue_importance": 3
         }
     },
@@ -7294,6 +7214,16 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 37,
             "issue_score": 0.25,
             "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13269,
+        "fields": {
+            "answer": 3662,
+            "issue": 41,
+            "issue_score": 0.1,
+            "issue_importance": 3
         }
     }
 ]
