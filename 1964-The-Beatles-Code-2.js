@@ -533,14 +533,6 @@ campaignTrail_temp.answers_json = [
     },
     {
         "model": "campaign_trail.answer",
-        "pk": 3763,
-        "fields": {
-            "question": 483,
-            "description": "I would not support a measure like this. This would be an unnecessary and unconstitutional interference into the rights of our states."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
         "pk": 3764,
         "fields": {
             "question": 484,
