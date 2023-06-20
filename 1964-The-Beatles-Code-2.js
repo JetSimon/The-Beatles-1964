@@ -8878,3 +8878,88 @@ campaignTrail_temp.running_mate_image_url = "https://media.discordapp.net/attach
 campaignTrail_temp.candidate_last_name = "Beatles"
 campaignTrail_temp.running_mate_last_name = "Epstein"
 
+//#startcode
+
+var walrusLevel = 0;
+
+campaignTrail_temp.multiple_endings = true
+
+campaignTrail_temp.cyoa = true
+
+cyoAdventure = function (a) { 
+    ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]
+	
+    if (ans == 3737 || ans == 3785 || ans == 3782 || ans == 3775 || ans == 3787) {
+        walrusLevel++;
+    }
+
+}
+
+
+endingPicker = (out, totv, aa, quickstats) => {
+
+    function setImage(url) {
+        let interval = setInterval(function () {
+            img = document.getElementsByClassName("person_image")[0];
+            if (img != null) {
+                img.src = url;
+                clearInterval(interval);
+            }
+        }, 50);
+    }
+
+    used=false;
+    //out = "win", "loss", or "tie" for your candidate
+    //totv = total votes in entire election
+    //aa = all final overall results data
+    //quickstats = relevant data on candidate performance (format: your candidate's electoral vote count, your candidate's popular vote share, your candidate's raw vote total)
+
+    if(walrusLevel >= 4) {
+
+        var audio = new Audio('https://cdn.discordapp.com/attachments/991561766037356614/1120570577212682352/I_Am_The_Walrus_Remastered_2009.mp3');
+        audio.play();
+
+        setImage("https://cdn.discordapp.com/attachments/991561766037356614/1120564439196905492/walrusEnding.png");
+
+        return `
+            <p>THE WALRUS CULT LIVES FOREVER. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. I AM THE EGGMAN. YOU ARE THE WALRUS!</p>
+        `
+    } else if(quickstats[0] == 537) {
+
+        setImage("https://cdn.discordapp.com/attachments/991561766037356614/1120566603633938442/godBeatles.png");
+
+        return `
+            <p>The Beatles have won America. Not just musically speaking, but in every way possible. Children play only with Beatles toys. Instead of worshipping gods people instead worship the Holy Four. Praise be John, George, Paul, and Ringo.</p>
+        `
+    } else if(quickstats[0] > 269) {
+        return `
+            <p>The Beatles have been crowned the kings of The British Invasion. They've made it to the toppermost of the poppermost! With amazing record sales they retire from touring in the mid 60s and produce many classic albums before disbanding in the early 70s.</p>
+        `
+    } else if(quickstats[0] == 269) {
+
+        setImage("https://cdn.discordapp.com/attachments/991561766037356614/1120568346144944168/Tie.png");
+
+        return `
+            <p>Historians will forever debate who the kings of The British Invasion were. It is very unclear who truly won, was it The Rolling Stones with their British take on the blues? Or was it teeny boppers The Beatles? Who, after refusing to tour in 1966 never made another album. As they could not support themselves from record sales alone.</p>
+        `
+    } else if(quickstats[0] < 269 && quickstats[0] > 0) {
+        return `
+            <p>Although many historians may disagree, clearly The Rolling Stones are the biggest band of the 60s British Invasion. The Beatles had a few hits early on, but they were no match for the Stones. By the time The Rolling Stones really hit their stride, The Beatles' relationships had soured before a bitter break up in 1967.</p>
+        `
+    } else if(quickstats[0] < 150 && quickstats[0] > 0) {
+
+        setImage("https://media.discordapp.net/attachments/991561766037356614/1120567744434290779/stonesBigWin.png?width=1215&height=793")
+
+        return `
+            <p>The Beatles were no match for The Rolling Stones. How could a few timid lads from Liverpool ever compete with the star power of Mick Jagger and Keith Richards? The Beatles' follow up album 'Help!' never made it very far up the charts. By the end of the decade they were almost completely forgotten.</p>
+        `
+    } else if(quickstats[0] <= 0){
+        setImage("https://cdn.discordapp.com/attachments/991561766037356614/1120567003393048706/whatIf.png");
+
+        return `
+            <p>The Beatles were somehow completely forgotten as soon as they leave America. When they get back to the UK they spend the rest of their days doing menial day jobs. Always wondering "what if".</p>
+        `
+    }
+}
+
+//#endcode
